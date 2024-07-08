@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px){
+
+    .skilldiv1{
+        display: grid;
+    }
+    .skilldiv2{
+        display: grid;
+    }
+
+}

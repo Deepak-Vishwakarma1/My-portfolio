@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Grape Nuts', cursive;
+    text-decoration: none;
+    list-style: none;
+    font-size: x-large;
+    /* box-sizing: border-box; */
+}
+.notice{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+}
+
+#whatsappicon{
+    height: 50px;
+    bottom: 30px;
+    position: fixed;
+    left: 30px;
+
+}
+#hiremeicon{
+    height: 50px;
+    bottom: 30px;
+    right: 30px;
+    position: fixed;
+}
+
+body{
+    background-color: wheat;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 2%;
+
+}
+ul{
+    padding-top: 15px;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding-inline: 20px;
+}
+li a{
+    color:black;
+   
+}
+li a:hover{
+    
+}
+
+/* header images section */
+
+header{
+    display:grid;
+    justify-content: center;
+}
+
+#photoong{   
+    height: 40vh;
+    width: 40vh;
+    border-radius: 2px;
+    padding-top: 25px;
+    border-radius: 45%;
+    border-image-slice: 5%;
+}
+/* end */
+#headingdetails{
+    text-align: center;
+}
+
+.buttondiv{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+
+
+}
+#dounloadbtn{
+    height: 6vh;
+    width: 30vh;
+    color: rgb(7, 4, 4);
+    /* font-size: 15px; */
+    background-color: rgb(72, 30, 30);
+    border: 2px solid rgb(72, 30, 30);
+    border-radius: 20px;
+}
+#dounloadbtn a{
+    font-size: medium;
+    color: white;
+
+}
+.socialmedia{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    gap: 20px;
+
+}
+.linkedin a i{
+    color:brown;
+}
+
+.github a i{
+
+    color: brown;
+}
+.footersection{
+    background: #000;
+    height: 50px;   
+}
+/* end */
+
+
+.header{
+    padding-top: 120px;
+    display: flex;
+    height: 500px;
+    width: none;
+    /* background-color: white; */
+}
+
+.leftdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 800px;
+    
+}
+#headerimg{
+    height: 500px;
+    width: 500px;
+    border-color: blue;
+    
+}
+.rightdiv{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(0, 255, 110);
+}

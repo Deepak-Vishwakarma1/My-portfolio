@@ -1,0 +1,9 @@
+@media only screen and ( max-width:752px){
+
+    .educationback{
+        margin-top: 11px;
+    }
+    .mainedudiv{
+        display: grid;
+    }
+}

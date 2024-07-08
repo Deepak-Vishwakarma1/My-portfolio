@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Grape Nuts', cursive;
+    text-decoration: none;
+    list-style: none;
+    font-size: x-large;
+}
+/* skills coding */
+
+.skilldiv1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    padding-top: 140px;
+    
+}
+.con1{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.logodiv img{
+    padding-top: 80px;
+    height: 100px;
+    width: 100px;
+}
+.con2{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}.con3{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.skill{
+    padding: 15px;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.skilldiv2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 40px;
+        padding-top: 140px;
+        
+    }
+.con4{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}.con5{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}.con6{
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

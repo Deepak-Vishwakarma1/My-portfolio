@@ -1,0 +1,34 @@
+.projectmain{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.projectcontainer{
+    height: 625px;
+    width: 300px;
+    background-color: white;
+    margin-top: 20px;
+    border: 1px solid  rgb(72, 30, 30);
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background-clip: inherit;
+}
+.projectbox1{
+    height: 200px;
+    width: 300px;
+    background-color: green;
+}
+.projectlinkbtn{
+    height: 6vh;
+    width: 30vh;
+    color: rgb(250, 246, 246);
+    /* font-size: 15px; */
+    background-color: rgb(72, 30, 30);
+    border: 2px solid rgb(72, 30, 30);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.projectlinkbtn a{
+    color: white;
+}

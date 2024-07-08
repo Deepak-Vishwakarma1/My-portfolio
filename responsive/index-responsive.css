@@ -1,0 +1,27 @@
+@media only screen and ( max-width:752px)
+{
+.navbar ul li  {
+    display: list-item;
+    
+}
+#whatsappicon{
+    bottom: 23px;
+    height: 40px;
+    width: 40px;
+}
+#hiremeicon{
+    bottom: 18px;
+    right: 3px;
+    height: 43px;
+    
+}
+}
+
+@media only screen and (max-width :800px){
+    .header{
+        display: grid;
+    }
+    
+}
+
+    
